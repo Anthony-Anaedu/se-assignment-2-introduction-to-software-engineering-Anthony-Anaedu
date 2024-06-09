@@ -232,7 +232,6 @@ Software engineers can encounter a range of ethical issues in their work, includ
 5. **Transparency**: Providing clear and accurate information to users about how their data is collected, used, and shared, and being transparent about the limitations and risks of software systems.
 6. **Accessibility**: Designing software that is accessible to users with disabilities and ensuring equal access to technology for all individuals.
 7. **Environmental Impact**: Minimizing the environmental impact of software development and operation, such as energy consumption and carbon emissions.
-
    # To adhere to ethical standards in their work, software engineers can:
 1. **Stay Informed**: Keep abreast of ethical principles, guidelines, and best practices in software engineering through training, reading, and participation in professional communities.
 2. **Follow Codes of Conduct**: Adhere to industry codes of conduct and ethical guidelines provided by professional organizations, such as the ACM Code of Ethics and Professional Conduct or the IEEE Code of Ethics.
@@ -241,8 +240,6 @@ Software engineers can encounter a range of ethical issues in their work, includ
 5. **Prioritize User Well-being**: Prioritize the well-being and interests of users and stakeholders when designing, developing, and deploying software systems.
 6. **Advocate for Ethical Practices**: Advocate for ethical practices within your organization, promote ethical decision-making processes, and speak up against unethical behavior when necessary.
 7. **Continuously Improve**: Reflect on your actions, learn from ethical dilemmas and mistakes, and continuously strive to improve your ethical practices and decision-making skills. By prioritizing ethics and incorporating ethical considerations into their work, software engineers can contribute to the development of technology that benefits society while minimizing harm.
-
-
 
 # References and sources:
 SOFTWARE PROJECT MANAGEMENT->Key Concepts and Practices< By Chakin (PLP May 2024 class).
